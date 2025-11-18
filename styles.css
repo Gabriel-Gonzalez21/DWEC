@@ -1,0 +1,26 @@
+ body {
+    margin: 0;
+    height: 100vh;
+    background: url("recursos/speed-ishowspeed.gif") repeat center center fixed;
+    background-size: cover;
+  }
+
+  /* Centrar el contenedor */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor {
+  text-align: center;
+  padding: 40px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
