@@ -13,7 +13,7 @@ document.getElementById("bMostrar1").onclick = function () {
 
 
 
-//empezar el juego
+//empezar el juegoo
 document.getElementById("bEmpezar").onclick = function (){
     //anulamos que se pueda cambiar la palabra y deshabilitamos el boton de mostrar la palabra
     document.getElementById("palabraAbuscar").disabled = true;
